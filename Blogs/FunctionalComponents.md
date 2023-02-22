@@ -18,10 +18,13 @@ kita bisa menggunakan component yang sudah ada, atau bahkan membuatnya sendiri c
 import { Card } from "./KartuNama";
 ```
 * Gunakan componen yang sudah kita import di dalam componen lain yang akan kita tampilkan
-![Screenshot 2023-02-22 at 23.11.09.png](..%2F..%2F..%2F..%2F..%2F..%2FUsers%2Fnununugraha%2FDesktop%2FScreenshot%202023-02-22%20at%2023.11.09.png)
+<img width="522" alt="Screenshot 2023-02-22 at 23 11 09" src="https://user-images.githubusercontent.com/49187517/220687472-fc58d3a7-b533-446f-a03e-d67969753ffe.png">
+
 
 Berikut hasil di browser: 
-![Screenshot 2023-02-22 at 23.06.03.png](..%2F..%2F..%2F..%2F..%2F..%2FUsers%2Fnununugraha%2FDesktop%2FScreenshot%202023-02-22%20at%2023.06.03.png)
+<img width="1437" alt="Screenshot 2023-02-22 at 23 06 03" src="https://user-images.githubusercontent.com/49187517/220687519-7a36a491-f3ed-4117-a591-4b6a16dea190.png">
+
+
 
 Sangat simple, tapi harus di mengerti karena di pastikan kita akan selalu membuat dan menggunakan componen hampir dalam setiap
 file js kita.
