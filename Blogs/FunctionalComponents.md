@@ -8,8 +8,8 @@ kita bisa menggunakan component yang sudah ada, atau bahkan membuatnya sendiri c
 * Tambahkan sebuah file .jsx ke dalam folder src, dengan nama component yang ingin anda buat.
 * Import React from 'react'.
 * Buat component dan export componen yang kita buat.
+<img width="1038" alt="Screenshot 2023-02-22 at 23 04 24" src="https://user-images.githubusercontent.com/49187517/220687161-72d1d9e3-24e5-453e-b165-aa51d5612ff2.png">
 
-![Screenshot 2023-02-22 at 23.04.24.png](..%2F..%2F..%2F..%2F..%2F..%2FUsers%2Fnununugraha%2FDesktop%2FScreenshot%202023-02-22%20at%2023.04.24.png)
 
 ### Cara menggunakan Component yang dibuat dan di export
 * Pastikan componen sudah di export
