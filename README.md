@@ -6,7 +6,7 @@ Project latihan ini, saya buat untuk mempelajari dan mempraktekan beberapa konse
 Saya juga akan menuliskan penjelasan dan tutorialnya satu persatu di repostitory ini.
 
 ## Materi:
-- Functional Components
+- Functional Components : [here](https://github.com/nunutech40/reactjs-minimalfunction/blob/main/Blogs/FunctionalComponents.md)
 - Props
 - Events
     - onClick
