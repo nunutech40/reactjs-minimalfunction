@@ -4,7 +4,7 @@
 yang penting kita define props di dalam tanda kurung setelan nama function, lalu memanggil parameter yang akan di pass
 ke dalam function
 
-Lihat contoh di bawah ini untuk mengerti kalimat di atas:
+Lihat contoh di bawah ini untuk mengerti kalimat di atas: \
 <img width="429" alt="Screenshot 2023-02-23 at 09 01 30" src="https://user-images.githubusercontent.com/49187517/220806707-d136500b-3965-4644-b1d5-0fc3705b9f92.png">
 
 
