@@ -3,9 +3,10 @@ import './App.css';
 import { Card } from "./KartuNama";
 
 function App() {
+
   return (
     <div className="App" align="left">
-      <Card/>
+      <Card nama="Nunu Nugraha" pekerjaan="Mobile Developer"/>
     </div>
   );
 }
