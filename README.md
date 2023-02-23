@@ -7,7 +7,7 @@ Saya juga akan menuliskan penjelasan dan tutorialnya satu persatu di repostitory
 
 ## Materi:
 - Functional Components : [here](https://github.com/nunutech40/reactjs-minimalfunction/blob/main/Blogs/FunctionalComponents.md)
-- Props
+- Props : [here](https://github.com/nunutech40/reactjs-minimalfunction/blob/main/Blogs/Props.md)
 - Events
     - onClick
     - onBlur
